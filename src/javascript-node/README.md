@@ -16,7 +16,7 @@
 | *Languages, platforms* | Node.js, JavaScript |
 
 ## Using this image
-
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
 You can directly reference pre-built versions of `Dockerfile` by using the `image` property in `.devcontainer/devcontainer.json` or updating the `FROM` statement in your own  `Dockerfile` to one of the following. An example `Dockerfile` is included in this repository.
 
 - `mcr.microsoft.com/devcontainers/javascript-node` (latest)
